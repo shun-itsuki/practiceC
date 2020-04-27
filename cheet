@@ -1,0 +1,1 @@
+gcc practice.c && ./a.out
